@@ -34,7 +34,7 @@ loadData("/artistData.json").then(artistNamesLinks => {
 		const currentSpriteSheetString = String(currentSpriteSheetIndex).padStart(2, "0");
 		// Height is max height unless we're on the final sprite sheet
 		const currentSpriteSheetHeight = currentSpriteSheetIndex === finalSpriteSheetIndex ? numArtists % spriteSheetHeight : spriteSheetHeight;
-		const imgHTML = Array(spriteSheetWidth).fill(0).map((_, j) => `<div class="img-container" style="background-image: url('https://strea.ly/Styleof-${currentSpriteSheetString}.webp');background-position: ${j/(spriteSheetWidth-1)*100}% ${i%spriteSheetHeight/(currentSpriteSheetHeight-1)*100}%;"><img></img></div>`).join("");
+		const imgHTML = Array(spriteSheetWidth).fill(0).map((_, j) => `<div class="img-container" style="background-image: url('/${currentSpriteSheetString}.webp');background-position: ${j/(spriteSheetWidth-1)*100}% ${i%spriteSheetHeight/(currentSpriteSheetHeight-1)*100}%;"><img></img></div>`).join("");
 		return `<div id="${i}" class="row"><div class="row-info">Style of ${name}</div><div class="row-toolbar">Style of ${name}<span class="row-icons"><i class="copy" title="Copy to clipboard"><a href="https://fluxpro.art/prompts/${link}" target="_blank" rel="noopener noreferrer" title="See original generation on fluxpro.art"></i><i class="fluxproart"></i></a><a href="https://fluxpro.art/prompts?q=${name}" target="_blank" rel="noopener noreferrer" title="Search for images generated using ${name} on fluxpro.art"><i class="search"></i></a><i class="minimize"></i></span></div>${imgHTML}</div>`
 	}).join("");
 

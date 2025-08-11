@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "tailwindcss-primeui";
+@import "primeicons/primeicons.css";
+@custom-variant dark (&:where(.p-dark, .p-dark *));
+
+.p-inplace-display {
+    @apply w-full;
+}
+
+.p-inplace-display div {
+    @apply w-full border border-1;
+    border-color: var(--p-inputtext-border-color);
+    padding: 2px;
+}
