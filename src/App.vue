@@ -1,44 +1,49 @@
 <template>
-    <div class="flex relative lg:static bg-surface-200 dark:bg-surface-950 h-full">
-        <AppSidebar />
-        <div class="overflow-auto flex-1 flex flex-col gap-8 transition-all pl-2 pr-2">
-            <Splitter class="h-full" :gutterSize="4">
-                <SplitterPanel class="pr-2" :size="20" :minSize="10">
-                    <AppControls />
-                </SplitterPanel>
-                <SplitterPanel class="flex items-center justify-center" :size="80" :minSize="10">Panel 2
+    <div class="mx-auto max-w-8xl px-4 sm:px-6 lg:px-8">
+        <div class="mx-auto max-w-5xl">
+            <div class="mb-4">
+                <h1 class="text-center">FLUX.1 [dev] Cheat Sheet</h1>
+                <p>
+                    A collection of what FLUX.1 [pro] generates when prompted with "Style of [artist name]" for 906 artists. Huge thanks to fluxpro.art for generation resources,
+                    and Github user SupaGruen for the basis of this project. Follow this project on Github.
+                </p>
+                <p>Prompts were run with 25 steps, guidance 3, and seed 1.</p>
+                <p>Updates, additions, refinement, and analysis to come.</p>
+            </div>
 
-                </SplitterPanel>
-            </Splitter>
+            <div>
+                <h2 class="text-center">Artists</h2>
+            </div>
+
+            <div li v-for="artist in artistsStore.artists" :key="artist.id" class="card">
+                <div class="px-2 py-1 bg-zinc-500 flex">
+                    <div class="flex-grow">{{ artist.name }}</div>
+                    <div class="flex-shrink-0">{{ artist.prefix }}</div>
+                </div>
+                <div class="p-2">
+                    <div class="grid grid-cols-4 gap-x-2 gap-y-4" >
+                        <div class="text-zinc-800 bg-zinc-300 rounded-lg p-2 h-48">
+                            <img src="http://localhost:5173/assets/artists/ossip_zadkine_2.jpg" />
+                        </div>
+                        <div class="text-zinc-800 bg-zinc-300 rounded-lg p-2 h-48">
+                            <img :src="'/assets/artists/' + artist.prefix + '_1.jpg'" />
+                        </div>
+                        <div class="text-zinc-800 bg-zinc-300 rounded-lg p-2 h-48">
+                            <img :src="'/assets/artists/' + artist.prefix + '_2.jpg'" />
+                        </div>
+                        <div class="text-zinc-800 bg-zinc-300 rounded-lg p-2 h-48">
+                            <img :src="'/assets/artists/' + artist.prefix + '_3.jpg'" />
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </template>
 
 <script setup>
 import { ref } from 'vue';
+import { useArtistsStore } from './store';
 
-import { useLayout } from "./composables/useLayout";
-
-import AppSidebar from './components/AppSidebar.vue';
-import AppControls from './components/AppControls.vue';
-import StatsWidget from './components/dashboard/StatsWidget.vue';
-import SalesTrendWidget from './components/dashboard/SalesTrendWidget.vue';
-import RecentActivityWidget from './components/dashboard/RecentActivityWidget.vue';
-import ProductOverviewWidget from './components/dashboard/ProductOverviewWidget.vue';
-
-const { isDarkMode, toggleDarkMode } = useLayout();
-
-const checked1 = ref(false);
-const selectedStyle = ref();
-
-const promptPositive = ref('');
-const promptNegative = ref('');
-
-const styles = ref([
-    { name: 'Home', code: 'pi pi-home' },
-    { name: 'Bookmark', code: 'pi pi-bookmark' },
-    { name: 'Users', code: 'pi pi-users' },
-    { name: 'Comments', code: 'pi pi-comments' },
-    { name: 'Calendar', code: 'pi pi-calendar' },
-]);
+const artistsStore = useArtistsStore();
 </script>

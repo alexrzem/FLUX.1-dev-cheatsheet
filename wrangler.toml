@@ -1,6 +1,0 @@
-name = "flux-1-dev-cheatsheet"
-pages_build_output_dir = "./"
-
-[[r2_buckets]]
-binding = "I"
-bucket_name = "cheatsheet-images"

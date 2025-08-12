@@ -1,14 +1,19 @@
 @import "tailwindcss";
-@import "tailwindcss-primeui";
-@import "primeicons/primeicons.css";
-@custom-variant dark (&:where(.p-dark, .p-dark *));
 
-.p-inplace-display {
-    @apply w-full;
+body {
+	@apply h-full;
+	@apply bg-zinc-800 text-white;
 }
 
-.p-inplace-display div {
-    @apply w-full border border-1;
-    border-color: var(--p-inputtext-border-color);
-    padding: 2px;
+#app {
+	@apply h-full p-4;
+}
+
+h1 {
+	@apply text-4xl font-semibold text-zinc-200;
+}
+
+.card {
+	@apply overflow-hidden rounded-lg bg-zinc-100 shadow-sm mb-2;
+	@apply border border-zinc-400;
 }

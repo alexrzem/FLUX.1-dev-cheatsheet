@@ -1,0 +1,3626 @@
+[
+	{
+		"name": "Slim Aarons",
+		"prefix": "slim_aarons"
+	},
+	{
+		"name": "Edwin Austin Abbey",
+		"prefix": "edwin_austin_abbey"
+	},
+	{
+		"name": "Tomma Abts",
+		"prefix": "tomma_abts"
+	},
+	{
+		"name": "Andreas Achenbach",
+		"prefix": "andreas_achenbach"
+	},
+	{
+		"name": "Norman Ackroyd",
+		"prefix": "norman_ackroyd"
+	},
+	{
+		"name": "Ansel Adams",
+		"prefix": "ansel_adams"
+	},
+	{
+		"name": "Arthur Adams",
+		"prefix": "arthur_adams"
+	},
+	{
+		"name": "Neal Adams",
+		"prefix": "neal_adams"
+	},
+	{
+		"name": "Josh Adamski",
+		"prefix": "josh_adamski"
+	},
+	{
+		"name": "Etel Adnan",
+		"prefix": "etel_adnan"
+	},
+	{
+		"name": "Mattias Adolfsson",
+		"prefix": "mattias_adolfsson"
+	},
+	{
+		"name": "Alena Aenami",
+		"prefix": "alena_aenami"
+	},
+	{
+		"name": "Pieter Aertsen",
+		"prefix": "pieter_aertsen"
+	},
+	{
+		"name": "Leonid Afremov",
+		"prefix": "leonid_afremov"
+	},
+	{
+		"name": "Petros Afshar",
+		"prefix": "petros_afshar"
+	},
+	{
+		"name": "Yaacov Agam",
+		"prefix": "yaacov_agam"
+	},
+	{
+		"name": "Eileen Agar",
+		"prefix": "eileen_agar"
+	},
+	{
+		"name": "Ivan Aivazovsky",
+		"prefix": "ivan_aivazovsky"
+	},
+	{
+		"name": "David Aja",
+		"prefix": "david_aja"
+	},
+	{
+		"name": "Sherry Akrami",
+		"prefix": "sherry_akrami"
+	},
+	{
+		"name": "Alessio Albi",
+		"prefix": "alessio_albi"
+	},
+	{
+		"name": "Ivan Albright",
+		"prefix": "ivan_albright"
+	},
+	{
+		"name": "Rafael Albuquerque",
+		"prefix": "rafael_albuquerque"
+	},
+	{
+		"name": "Miles Aldridge",
+		"prefix": "miles_aldridge"
+	},
+	{
+		"name": "Shahab Alizadeh",
+		"prefix": "shahab_alizadeh"
+	},
+	{
+		"name": "Helen Allingham",
+		"prefix": "helen_allingham"
+	},
+	{
+		"name": "Alessandro Allori",
+		"prefix": "alessandro_allori"
+	},
+	{
+		"name": "Mike Allred",
+		"prefix": "mike_allred"
+	},
+	{
+		"name": "Albrecht Altdorfer",
+		"prefix": "albrecht_altdorfer"
+	},
+	{
+		"name": "Yoshitaka Amano",
+		"prefix": "yoshitaka_amano"
+	},
+	{
+		"name": "Tarsila do Amaral",
+		"prefix": "tarsila_do_amaral"
+	},
+	{
+		"name": "Cuno Amiet",
+		"prefix": "cuno_amiet"
+	},
+	{
+		"name": "Fernando Amorsolo",
+		"prefix": "fernando_amorsolo"
+	},
+	{
+		"name": "Jay Anacleto",
+		"prefix": "jay_anacleto"
+	},
+	{
+		"name": "Anna Ancher",
+		"prefix": "anna_ancher"
+	},
+	{
+		"name": "Richard Anderson",
+		"prefix": "richard_anderson"
+	},
+	{
+		"name": "Wes Anderson",
+		"prefix": "wes_anderson"
+	},
+	{
+		"name": "Alex Andreev",
+		"prefix": "alex_andreev"
+	},
+	{
+		"name": "Esao Andrews",
+		"prefix": "esao_andrews"
+	},
+	{
+		"name": "Pietro Annigoni",
+		"prefix": "pietro_annigoni"
+	},
+	{
+		"name": "Martin Ansin",
+		"prefix": "martin_ansin"
+	},
+	{
+		"name": "Chiho Aoshima",
+		"prefix": "chiho_aoshima"
+	},
+	{
+		"name": "Karel Appel",
+		"prefix": "karel_appel"
+	},
+	{
+		"name": "Apterus",
+		"prefix": "apterus"
+	},
+	{
+		"name": "Nobuyoshi Araki",
+		"prefix": "nobuyoshi_araki"
+	},
+	{
+		"name": "Shinji Aramaki",
+		"prefix": "shinji_aramaki"
+	},
+	{
+		"name": "Alexander Archipenko",
+		"prefix": "alexander_archipenko"
+	},
+	{
+		"name": "Giuseppe Arcimboldo",
+		"prefix": "giuseppe_arcimboldo"
+	},
+	{
+		"name": "Mordecai Ardon",
+		"prefix": "mordecai_ardon"
+	},
+	{
+		"name": "Mark Arian",
+		"prefix": "mark_arian"
+	},
+	{
+		"name": "Abram Arkhipov",
+		"prefix": "abram_arkhipov"
+	},
+	{
+		"name": "Rolf Armstrong",
+		"prefix": "rolf_armstrong"
+	},
+	{
+		"name": "Alois Arnegger",
+		"prefix": "alois_arnegger"
+	},
+	{
+		"name": "Gerd Arntz",
+		"prefix": "gerd_arntz"
+	},
+	{
+		"name": "Floris Arntzenius",
+		"prefix": "floris_arntzenius"
+	},
+	{
+		"name": "Jean Arp",
+		"prefix": "jean_arp"
+	},
+	{
+		"name": "Agostino Arrivabene",
+		"prefix": "agostino_arrivabene"
+	},
+	{
+		"name": "Artgerm",
+		"prefix": "artgerm"
+	},
+	{
+		"name": "Henry Asencio",
+		"prefix": "henry_asencio"
+	},
+	{
+		"name": "Balthasar van der Ast",
+		"prefix": "balthasar_van_der_ast"
+	},
+	{
+		"name": "Nikolai Astrup",
+		"prefix": "nikolai_astrup"
+	},
+	{
+		"name": "Eugène Atget",
+		"prefix": "eugene_atget"
+	},
+	{
+		"name": "John James Audubon",
+		"prefix": "john_james_audubon"
+	},
+	{
+		"name": "Frank Auerbach",
+		"prefix": "frank_auerbach"
+	},
+	{
+		"name": "George Ault",
+		"prefix": "george_ault"
+	},
+	{
+		"name": "Richard Avedon",
+		"prefix": "richard_avedon"
+	},
+	{
+		"name": "Milton Avery",
+		"prefix": "milton_avery"
+	},
+	{
+		"name": "Chris Bachalo",
+		"prefix": "chris_bachalo"
+	},
+	{
+		"name": "Anne Bachelier",
+		"prefix": "anne_bachelier"
+	},
+	{
+		"name": "Tom Bagshaw",
+		"prefix": "tom_bagshaw"
+	},
+	{
+		"name": "Alice Bailly",
+		"prefix": "alice_bailly"
+	},
+	{
+		"name": "Karol Bak",
+		"prefix": "karol_bak"
+	},
+	{
+		"name": "Ralph Bakshi",
+		"prefix": "ralph_bakshi"
+	},
+	{
+		"name": "Christopher Balaskas",
+		"prefix": "christopher_balaskas"
+	},
+	{
+		"name": "Emily Balivet",
+		"prefix": "emily_balivet"
+	},
+	{
+		"name": "Peder Balke",
+		"prefix": "peder_balke"
+	},
+	{
+		"name": "Benedick Bana",
+		"prefix": "benedick_bana"
+	},
+	{
+		"name": "George Barbier",
+		"prefix": "george_barbier"
+	},
+	{
+		"name": "Clive Barker",
+		"prefix": "clive_barker"
+	},
+	{
+		"name": "Wayne Barlowe",
+		"prefix": "wayne_barlowe"
+	},
+	{
+		"name": "Ernie Barnes",
+		"prefix": "ernie_barnes"
+	},
+	{
+		"name": "Will Barnet",
+		"prefix": "will_barnet"
+	},
+	{
+		"name": "Angela Barrett",
+		"prefix": "angela_barrett"
+	},
+	{
+		"name": "Paul Barson",
+		"prefix": "paul_barson"
+	},
+	{
+		"name": "Bo Bartlett",
+		"prefix": "bo_bartlett"
+	},
+	{
+		"name": "Casey Baugh",
+		"prefix": "casey_baugh"
+	},
+	{
+		"name": "Gifford Beal",
+		"prefix": "gifford_beal"
+	},
+	{
+		"name": "Aubrey Beardsley",
+		"prefix": "aubrey_beardsley"
+	},
+	{
+		"name": "Beatrix Potter",
+		"prefix": "beatrix_potter"
+	},
+	{
+		"name": "Beeple",
+		"prefix": "beeple"
+	},
+	{
+		"name": "Zdzislaw Beksinski",
+		"prefix": "zdzislaw_beksinski"
+	},
+	{
+		"name": "Hans Bellmer",
+		"prefix": "hans_bellmer"
+	},
+	{
+		"name": "George Bellows",
+		"prefix": "george_bellows"
+	},
+	{
+		"name": "Ludwig Bemelmans",
+		"prefix": "ludwig_bemelmans"
+	},
+	{
+		"name": "Alexandre Benois",
+		"prefix": "alexandre_benois"
+	},
+	{
+		"name": "Earle Bergey",
+		"prefix": "earle_bergey"
+	},
+	{
+		"name": "John Berkey",
+		"prefix": "john_berkey"
+	},
+	{
+		"name": "Gian Lorenzo Bernini",
+		"prefix": "gian_lorenzo_bernini"
+	},
+	{
+		"name": "Elsa Beskow",
+		"prefix": "elsa_beskow"
+	},
+	{
+		"name": "James Bidgood",
+		"prefix": "james_bidgood"
+	},
+	{
+		"name": "Szymon Biernacki",
+		"prefix": "szymon_biernacki"
+	},
+	{
+		"name": "Albert Bierstadt",
+		"prefix": "albert_bierstadt"
+	},
+	{
+		"name": "John T. Biggers",
+		"prefix": "john_t_biggers"
+	},
+	{
+		"name": "Enki Bilal",
+		"prefix": "enki_bilal"
+	},
+	{
+		"name": "Ivan Bilibin",
+		"prefix": "ivan_bilibin"
+	},
+	{
+		"name": "Butcher Billy",
+		"prefix": "butcher_billy"
+	},
+	{
+		"name": "Ed Binkley",
+		"prefix": "ed_binkley"
+	},
+	{
+		"name": "Elmer Bischoff",
+		"prefix": "elmer_bischoff"
+	},
+	{
+		"name": "Simon Bisley",
+		"prefix": "simon_bisley"
+	},
+	{
+		"name": "Robert Bissell",
+		"prefix": "robert_bissell"
+	},
+	{
+		"name": "Mary Blair",
+		"prefix": "mary_blair"
+	},
+	{
+		"name": "William Blake",
+		"prefix": "william_blake"
+	},
+	{
+		"name": "Antoine Blanchard",
+		"prefix": "antoine_blanchard"
+	},
+	{
+		"name": "John Blanche",
+		"prefix": "john_blanche"
+	},
+	{
+		"name": "Tim Blandin",
+		"prefix": "tim_blandin"
+	},
+	{
+		"name": "Neil Blevins",
+		"prefix": "neil_blevins"
+	},
+	{
+		"name": "Umberto Boccioni",
+		"prefix": "umberto_boccioni"
+	},
+	{
+		"name": "Brian Bolland",
+		"prefix": "brian_bolland"
+	},
+	{
+		"name": "Chesley Bonestell",
+		"prefix": "chesley_bonestell"
+	},
+	{
+		"name": "Olivier Bonhomme",
+		"prefix": "olivier_bonhomme"
+	},
+	{
+		"name": "Pierre Bonnard",
+		"prefix": "pierre_bonnard"
+	},
+	{
+		"name": "Franklin Booth",
+		"prefix": "franklin_booth"
+	},
+	{
+		"name": "Marius Borgeaud",
+		"prefix": "marius_borgeaud"
+	},
+	{
+		"name": "Matt Bors",
+		"prefix": "matt_bors"
+	},
+	{
+		"name": "Hieronymus Bosch",
+		"prefix": "hieronymus_bosch"
+	},
+	{
+		"name": "Sam Bosma",
+		"prefix": "sam_bosma"
+	},
+	{
+		"name": "Ambrosius Bosschaert",
+		"prefix": "ambrosius_bosschaert"
+	},
+	{
+		"name": "Johfra Bosschart",
+		"prefix": "johfra_bosschart"
+	},
+	{
+		"name": "Botero",
+		"prefix": "botero"
+	},
+	{
+		"name": "Sandro Botticelli",
+		"prefix": "sandro_botticelli"
+	},
+	{
+		"name": "Francois Boucher",
+		"prefix": "francois_boucher"
+	},
+	{
+		"name": "Charlie Bowater",
+		"prefix": "charlie_bowater"
+	},
+	{
+		"name": "David Michael Bowers",
+		"prefix": "david_michael_bowers"
+	},
+	{
+		"name": "Frank Bowling",
+		"prefix": "frank_bowling"
+	},
+	{
+		"name": "Thomas Shotter Boys",
+		"prefix": "thomas_shotter_boys"
+	},
+	{
+		"name": "Noah Bradley",
+		"prefix": "noah_bradley"
+	},
+	{
+		"name": "Frank Bramley",
+		"prefix": "frank_bramley"
+	},
+	{
+		"name": "Victor Brauner",
+		"prefix": "victor_brauner"
+	},
+	{
+		"name": "George B. Bridgman",
+		"prefix": "george_b_bridgman"
+	},
+	{
+		"name": "Austin Briggs",
+		"prefix": "austin_briggs"
+	},
+	{
+		"name": "Romero Britto",
+		"prefix": "romero_britto"
+	},
+	{
+		"name": "Glen Brogan",
+		"prefix": "glen_brogan"
+	},
+	{
+		"name": "Gerald Brom",
+		"prefix": "gerald_brom"
+	},
+	{
+		"name": "Ford Madox Brown",
+		"prefix": "ford_madox_brown"
+	},
+	{
+		"name": "Edward Burne-Jones",
+		"prefix": "edward_burne_jones"
+	},
+	{
+		"name": "Jim Burns",
+		"prefix": "jim_burns"
+	},
+	{
+		"name": "Gaston Bussiere",
+		"prefix": "gaston_bussiere"
+	},
+	{
+		"name": "Arnold Böcklin",
+		"prefix": "arnold_bocklin"
+	},
+	{
+		"name": "Francis Cadell",
+		"prefix": "francis_cadell"
+	},
+	{
+		"name": "Paul Cadmus",
+		"prefix": "paul_cadmus"
+	},
+	{
+		"name": "Alexandre Calame",
+		"prefix": "alexandre_calame"
+	},
+	{
+		"name": "Clyde Caldwell",
+		"prefix": "clyde_caldwell"
+	},
+	{
+		"name": "Fred Calleri",
+		"prefix": "fred_calleri"
+	},
+	{
+		"name": "Charles Camoin",
+		"prefix": "charles_camoin"
+	},
+	{
+		"name": "Colin Campbell Cooper",
+		"prefix": "colin_campbell_cooper"
+	},
+	{
+		"name": "Pascal Campion",
+		"prefix": "pascal_campion"
+	},
+	{
+		"name": "Milton Caniff",
+		"prefix": "milton_caniff"
+	},
+	{
+		"name": "Pablo Carpio",
+		"prefix": "pablo_carpio"
+	},
+	{
+		"name": "Michael Carson",
+		"prefix": "michael_carson"
+	},
+	{
+		"name": "Santiago Caruso",
+		"prefix": "santiago_caruso"
+	},
+	{
+		"name": "Didier Cassegrain",
+		"prefix": "didier_cassegrain"
+	},
+	{
+		"name": "Alfred J. Casson",
+		"prefix": "alfred_j_casson"
+	},
+	{
+		"name": "Paul Catherall",
+		"prefix": "paul_catherall"
+	},
+	{
+		"name": "Clint Cearley",
+		"prefix": "clint_cearley"
+	},
+	{
+		"name": "Agnes Cecile",
+		"prefix": "agnes_cecile"
+	},
+	{
+		"name": "Marc Chagall",
+		"prefix": "marc_chagall"
+	},
+	{
+		"name": "John Chamberlain",
+		"prefix": "john_chamberlain"
+	},
+	{
+		"name": "Jean Siméon Chardin",
+		"prefix": "jean_simeon_chardin"
+	},
+	{
+		"name": "Travis Charest",
+		"prefix": "travis_charest"
+	},
+	{
+		"name": "Pierre Puvis de Chavannes",
+		"prefix": "pierre_puvis_de_chavannes"
+	},
+	{
+		"name": "Hsiao Ron Cheng",
+		"prefix": "hsiao_ron_cheng"
+	},
+	{
+		"name": "Yanjun Cheng",
+		"prefix": "yanjun_cheng"
+	},
+	{
+		"name": "Ivan Chermayeff",
+		"prefix": "ivan_chermayeff"
+	},
+	{
+		"name": "Michael Cheval",
+		"prefix": "michael_cheval"
+	},
+	{
+		"name": "Sandra Chevrier",
+		"prefix": "sandra_chevrier"
+	},
+	{
+		"name": "Dale Chihuly",
+		"prefix": "dale_chihuly"
+	},
+	{
+		"name": "Frank Cho",
+		"prefix": "frank_cho"
+	},
+	{
+		"name": "James C. Christensen",
+		"prefix": "james_c_christensen"
+	},
+	{
+		"name": "Frederic Edwin Church",
+		"prefix": "frederic_edwin_church"
+	},
+	{
+		"name": "Cimabue",
+		"prefix": "cimabue"
+	},
+	{
+		"name": "Mikalojus Ciurlionis",
+		"prefix": "mikalojus_ciurlionis"
+	},
+	{
+		"name": "Harry Clarke",
+		"prefix": "harry_clarke"
+	},
+	{
+		"name": "Henry Clive",
+		"prefix": "henry_clive"
+	},
+	{
+		"name": "Becky Cloonan",
+		"prefix": "becky_cloonan"
+	},
+	{
+		"name": "Ron Cobb",
+		"prefix": "ron_cobb"
+	},
+	{
+		"name": "Alvin Langdon Coburn",
+		"prefix": "alvin_langdon_coburn"
+	},
+	{
+		"name": "Chris Cold",
+		"prefix": "chris_cold"
+	},
+	{
+		"name": "Charles Conder",
+		"prefix": "charles_conder"
+	},
+	{
+		"name": "George Condo",
+		"prefix": "george_condo"
+	},
+	{
+		"name": "John Constable",
+		"prefix": "john_constable"
+	},
+	{
+		"name": "Yvonne Coomber",
+		"prefix": "yvonne_coomber"
+	},
+	{
+		"name": "Richard Corben",
+		"prefix": "richard_corben"
+	},
+	{
+		"name": "Paul Corfield",
+		"prefix": "paul_corfield"
+	},
+	{
+		"name": "Lovis Corinth",
+		"prefix": "lovis_corinth"
+	},
+	{
+		"name": "Jean-Baptiste Camille Corot",
+		"prefix": "jean_baptiste_camille_corot"
+	},
+	{
+		"name": "Shawn Coss",
+		"prefix": "shawn_coss"
+	},
+	{
+		"name": "Francesco del Cossa",
+		"prefix": "francesco_del_cossa"
+	},
+	{
+		"name": "Walter Crane",
+		"prefix": "walter_crane"
+	},
+	{
+		"name": "Guido Crepax",
+		"prefix": "guido_crepax"
+	},
+	{
+		"name": "Gregory Crewdson",
+		"prefix": "gregory_crewdson"
+	},
+	{
+		"name": "Debbie Criswell",
+		"prefix": "debbie_criswell"
+	},
+	{
+		"name": "Njideka Akunyili Crosby",
+		"prefix": "njideka_akunyili_crosby"
+	},
+	{
+		"name": "Henri-Edmond Cross",
+		"prefix": "henri_edmond_cross"
+	},
+	{
+		"name": "Nicolas de Crecy",
+		"prefix": "nicolas_de_crecy"
+	},
+	{
+		"name": "John Currin",
+		"prefix": "john_currin"
+	},
+	{
+		"name": "Paul Cezanne",
+		"prefix": "paul_cezanne"
+	},
+	{
+		"name": "Leonardo da Vinci",
+		"prefix": "leonardo_da_vinci"
+	},
+	{
+		"name": "Steven DaLuz",
+		"prefix": "steven_da_luz"
+	},
+	{
+		"name": "Pino Daeni",
+		"prefix": "pino_daeni"
+	},
+	{
+		"name": "Louise Dahl-Wolfe",
+		"prefix": "louise_dahl_wolfe"
+	},
+	{
+		"name": "Farel Dalrymple",
+		"prefix": "farel_dalrymple"
+	},
+	{
+		"name": "Salvador Dali",
+		"prefix": "salvador_dali"
+	},
+	{
+		"name": "Henry Darger",
+		"prefix": "henry_darger"
+	},
+	{
+		"name": "Geof Darrow",
+		"prefix": "geof_darrow"
+	},
+	{
+		"name": "Honoré Daumier",
+		"prefix": "honore_daumier"
+	},
+	{
+		"name": "Jacques-Louis David",
+		"prefix": "jacques_louis_david"
+	},
+	{
+		"name": "Jack Davis",
+		"prefix": "jack_davis"
+	},
+	{
+		"name": "Marc Davis",
+		"prefix": "marc_davis"
+	},
+	{
+		"name": "Craig Davison",
+		"prefix": "craig_davison"
+	},
+	{
+		"name": "Evelyn De Morgan",
+		"prefix": "evelyn_de_morgan"
+	},
+	{
+		"name": "Jonas De Ro",
+		"prefix": "jonas_de_ro"
+	},
+	{
+		"name": "Dan DeCarlo",
+		"prefix": "dan_de_carlo"
+	},
+	{
+		"name": "Kelly Sue DeConnick",
+		"prefix": "kelly_sue_de_connick"
+	},
+	{
+		"name": "Michael DeForge",
+		"prefix": "michael_de_forge"
+	},
+	{
+		"name": "Edwin Deakin",
+		"prefix": "edwin_deakin"
+	},
+	{
+		"name": "Roger Dean",
+		"prefix": "roger_dean"
+	},
+	{
+		"name": "Edgar Degas",
+		"prefix": "edgar_degas"
+	},
+	{
+		"name": "Robert Delaunay",
+		"prefix": "robert_delaunay"
+	},
+	{
+		"name": "Nicolas Delort",
+		"prefix": "nicolas_delort"
+	},
+	{
+		"name": "Paul Delvaux",
+		"prefix": "paul_delvaux"
+	},
+	{
+		"name": "Jean Delville",
+		"prefix": "jean_delville"
+	},
+	{
+		"name": "Wim Delvoye",
+		"prefix": "wim_delvoye"
+	},
+	{
+		"name": "Maurice Denis",
+		"prefix": "maurice_denis"
+	},
+	{
+		"name": "Guy Denning",
+		"prefix": "guy_denning"
+	},
+	{
+		"name": "Mike Deodato",
+		"prefix": "mike_deodato"
+	},
+	{
+		"name": "Andre Derain",
+		"prefix": "andre_derain"
+	},
+	{
+		"name": "Charles Maurice Detmold",
+		"prefix": "charles_maurice_detmold"
+	},
+	{
+		"name": "Vincent Di Fate",
+		"prefix": "vincent_di_fate"
+	},
+	{
+		"name": "Karl Wilhelm Diefenbach",
+		"prefix": "karl_wilhelm_diefenbach"
+	},
+	{
+		"name": "Diane Dillon",
+		"prefix": "diane_dillon"
+	},
+	{
+		"name": "Steve Ditko",
+		"prefix": "steve_ditko"
+	},
+	{
+		"name": "Anna Dittmann",
+		"prefix": "anna_dittmann"
+	},
+	{
+		"name": "Gustave Dore",
+		"prefix": "gustave_dore"
+	},
+	{
+		"name": "Emory Douglas",
+		"prefix": "emory_douglas"
+	},
+	{
+		"name": "David Downton",
+		"prefix": "david_downton"
+	},
+	{
+		"name": "Tim Doyle",
+		"prefix": "tim_doyle"
+	},
+	{
+		"name": "David C. Driskell",
+		"prefix": "david_c_driskell"
+	},
+	{
+		"name": "Philippe Druillet",
+		"prefix": "philippe_druillet"
+	},
+	{
+		"name": "Jean Dubuffet",
+		"prefix": "jean_dubuffet"
+	},
+	{
+		"name": "Raymond Duchamp-Villon",
+		"prefix": "raymond_duchamp_villon"
+	},
+	{
+		"name": "Jonny Duddle",
+		"prefix": "jonny_duddle"
+	},
+	{
+		"name": "Edmund Dulac",
+		"prefix": "edmund_dulac"
+	},
+	{
+		"name": "Asher Brown Durand",
+		"prefix": "asher_brown_durand"
+	},
+	{
+		"name": "Anthonis van Dyck",
+		"prefix": "anthonis_van_dyck"
+	},
+	{
+		"name": "Chris Dyer",
+		"prefix": "chris_dyer"
+	},
+	{
+		"name": "Albrecht Durer",
+		"prefix": "albrecht_durer"
+	},
+	{
+		"name": "Thomas Eakins",
+		"prefix": "thomas_eakins"
+	},
+	{
+		"name": "Eyvind Earle",
+		"prefix": "eyvind_earle"
+	},
+	{
+		"name": "Amy Earles",
+		"prefix": "amy_earles"
+	},
+	{
+		"name": "Jeff Easley",
+		"prefix": "jeff_easley"
+	},
+	{
+		"name": "Tristan Eaton",
+		"prefix": "tristan_eaton"
+	},
+	{
+		"name": "Tyler Edlin",
+		"prefix": "tyler_edlin"
+	},
+	{
+		"name": "Jason Edmiston",
+		"prefix": "jason_edmiston"
+	},
+	{
+		"name": "William Eggleston",
+		"prefix": "william_eggleston"
+	},
+	{
+		"name": "Bob Eggleton",
+		"prefix": "bob_eggleton"
+	},
+	{
+		"name": "Will Eisner",
+		"prefix": "will_eisner"
+	},
+	{
+		"name": "Jesper Ejsing",
+		"prefix": "jesper_ejsing"
+	},
+	{
+		"name": "El Greco",
+		"prefix": "el_greco"
+	},
+	{
+		"name": "El Huervo",
+		"prefix": "el_huervo"
+	},
+	{
+		"name": "Dean Ellis",
+		"prefix": "dean_ellis"
+	},
+	{
+		"name": "Adam Elsheimer",
+		"prefix": "adam_elsheimer"
+	},
+	{
+		"name": "Peter Elson",
+		"prefix": "peter_elson"
+	},
+	{
+		"name": "Gil Elvgren",
+		"prefix": "gil_elvgren"
+	},
+	{
+		"name": "Ed Emshwiller",
+		"prefix": "ed_emshwiller"
+	},
+	{
+		"name": "Kilian Eng",
+		"prefix": "kilian_eng"
+	},
+	{
+		"name": "Delphin Enjolras",
+		"prefix": "delphin_enjolras"
+	},
+	{
+		"name": "Hans Erni",
+		"prefix": "hans_erni"
+	},
+	{
+		"name": "Max Ernst",
+		"prefix": "max_ernst"
+	},
+	{
+		"name": "Erté",
+		"prefix": "erte"
+	},
+	{
+		"name": "M.C. Escher",
+		"prefix": "m_c_escher"
+	},
+	{
+		"name": "Adrianus Eversen",
+		"prefix": "adrianus_eversen"
+	},
+	{
+		"name": "Glenn Fabry",
+		"prefix": "glenn_fabry"
+	},
+	{
+		"name": "Anton Fadeev",
+		"prefix": "anton_fadeev"
+	},
+	{
+		"name": "Shepard Fairey",
+		"prefix": "shepard_fairey"
+	},
+	{
+		"name": "Andy Fairhurst",
+		"prefix": "andy_fairhurst"
+	},
+	{
+		"name": "John Philip Falter",
+		"prefix": "john_philip_falter"
+	},
+	{
+		"name": "Fang Lijun",
+		"prefix": "fang_lijun"
+	},
+	{
+		"name": "Henri Fantin-Latour",
+		"prefix": "henri_fantin_latour"
+	},
+	{
+		"name": "Duncan Fegredo",
+		"prefix": "duncan_fegredo"
+	},
+	{
+		"name": "Lyonel Feininger",
+		"prefix": "lyonel_feininger"
+	},
+	{
+		"name": "Andrew Ferez",
+		"prefix": "andrew_ferez"
+	},
+	{
+		"name": "Roberto Ferri",
+		"prefix": "roberto_ferri"
+	},
+	{
+		"name": "Hugh Ferriss",
+		"prefix": "hugh_ferriss"
+	},
+	{
+		"name": "Virgil Finlay",
+		"prefix": "virgil_finlay"
+	},
+	{
+		"name": "Anato Finnstark",
+		"prefix": "anato_finnstark"
+	},
+	{
+		"name": "Paul Gustav Fischer",
+		"prefix": "paul_gustav_fischer"
+	},
+	{
+		"name": "Oskar Fischinger",
+		"prefix": "oskar_fischinger"
+	},
+	{
+		"name": "Dan Flavin",
+		"prefix": "dan_flavin"
+	},
+	{
+		"name": "Govert Flinck",
+		"prefix": "govert_flinck"
+	},
+	{
+		"name": "Alex Russell Flint",
+		"prefix": "alex_russell_flint"
+	},
+	{
+		"name": "Piotr Foksowicz",
+		"prefix": "piotr_foksowicz"
+	},
+	{
+		"name": "Stanhope Forbes",
+		"prefix": "stanhope_forbes"
+	},
+	{
+		"name": "Eleanor Fortescue Brickdale",
+		"prefix": "eleanor_fortescue_brickdale"
+	},
+	{
+		"name": "Chris Foss",
+		"prefix": "chris_foss"
+	},
+	{
+		"name": "Hal Foster",
+		"prefix": "hal_foster"
+	},
+	{
+		"name": "Jon Foster",
+		"prefix": "jon_foster"
+	},
+	{
+		"name": "Fra Angelico",
+		"prefix": "fra_angelico"
+	},
+	{
+		"name": "Matt Fraction",
+		"prefix": "matt_fraction"
+	},
+	{
+		"name": "Jean-Honoré Fragonard",
+		"prefix": "jean_honore_fragonard"
+	},
+	{
+		"name": "Francesco Francavilla",
+		"prefix": "francesco_francavilla"
+	},
+	{
+		"name": "Piero della Francesca",
+		"prefix": "piero_della_francesca"
+	},
+	{
+		"name": "Lisa Frank",
+		"prefix": "lisa_frank"
+	},
+	{
+		"name": "Frank Frazetta",
+		"prefix": "frank_frazetta"
+	},
+	{
+		"name": "Lucian Freud",
+		"prefix": "lucian_freud"
+	},
+	{
+		"name": "Caspar David Friedrich",
+		"prefix": "caspar_david_friedrich"
+	},
+	{
+		"name": "Chris Friel",
+		"prefix": "chris_friel"
+	},
+	{
+		"name": "Brian Froud",
+		"prefix": "brian_froud"
+	},
+	{
+		"name": "Ando Fuchs",
+		"prefix": "ando_fuchs"
+	},
+	{
+		"name": "Ernst Fuchs",
+		"prefix": "ernst_fuchs"
+	},
+	{
+		"name": "Goro Fujita",
+		"prefix": "goro_fujita"
+	},
+	{
+		"name": "Ellen Gallagher",
+		"prefix": "ellen_gallagher"
+	},
+	{
+		"name": "Stephen Gammell",
+		"prefix": "stephen_gammell"
+	},
+	{
+		"name": "Hope Gangloff",
+		"prefix": "hope_gangloff"
+	},
+	{
+		"name": "Paul Gauguin",
+		"prefix": "paul_gauguin"
+	},
+	{
+		"name": "Jeremy Geddes",
+		"prefix": "jeremy_geddes"
+	},
+	{
+		"name": "Artemisia Gentileschi",
+		"prefix": "artemisia_gentileschi"
+	},
+	{
+		"name": "Edwin Georgi",
+		"prefix": "edwin_georgi"
+	},
+	{
+		"name": "Justin Gerard",
+		"prefix": "justin_gerard"
+	},
+	{
+		"name": "Daniel F. Gerhartz",
+		"prefix": "daniel_f_gerhartz"
+	},
+	{
+		"name": "Atey Ghailan",
+		"prefix": "atey_ghailan"
+	},
+	{
+		"name": "Adrian Ghenie",
+		"prefix": "adrian_ghenie"
+	},
+	{
+		"name": "Domenico Ghirlandaio",
+		"prefix": "domenico_ghirlandaio"
+	},
+	{
+		"name": "Donato Giancola",
+		"prefix": "donato_giancola"
+	},
+	{
+		"name": "Dave Gibbons",
+		"prefix": "dave_gibbons"
+	},
+	{
+		"name": "Charles Dana Gibson",
+		"prefix": "charles_dana_gibson"
+	},
+	{
+		"name": "Ralph Gibson",
+		"prefix": "ralph_gibson"
+	},
+	{
+		"name": "HR Giger",
+		"prefix": "hr_giger"
+	},
+	{
+		"name": "James Gilleard",
+		"prefix": "james_gilleard"
+	},
+	{
+		"name": "Sam Gilliam",
+		"prefix": "sam_gilliam"
+	},
+	{
+		"name": "William James Glackens",
+		"prefix": "william_james_glackens"
+	},
+	{
+		"name": "Milton Glaser",
+		"prefix": "milton_glaser"
+	},
+	{
+		"name": "Warwick Goble",
+		"prefix": "warwick_goble"
+	},
+	{
+		"name": "Basil Gogos",
+		"prefix": "basil_gogos"
+	},
+	{
+		"name": "Nan Goldin",
+		"prefix": "nan_goldin"
+	},
+	{
+		"name": "Rob Gonsalves",
+		"prefix": "rob_gonsalves"
+	},
+	{
+		"name": "Josan Gonzalez",
+		"prefix": "josan_gonzalez"
+	},
+	{
+		"name": "Albert Goodwin",
+		"prefix": "albert_goodwin"
+	},
+	{
+		"name": "Misha Gordin",
+		"prefix": "misha_gordin"
+	},
+	{
+		"name": "Derek Gores",
+		"prefix": "derek_gores"
+	},
+	{
+		"name": "Alessandro Gottardo",
+		"prefix": "alessandro_gottardo"
+	},
+	{
+		"name": "J.J. Grandville",
+		"prefix": "j_j_grandville"
+	},
+	{
+		"name": "Duncan Grant",
+		"prefix": "duncan_grant"
+	},
+	{
+		"name": "Eugene Grasset",
+		"prefix": "eugene_grasset"
+	},
+	{
+		"name": "Laurie Greasley",
+		"prefix": "laurie_greasley"
+	},
+	{
+		"name": "Kate Greenaway",
+		"prefix": "kate_greenaway"
+	},
+	{
+		"name": "Martin Grelle",
+		"prefix": "martin_grelle"
+	},
+	{
+		"name": "Alex Grey",
+		"prefix": "alex_grey"
+	},
+	{
+		"name": "Peter Gric",
+		"prefix": "peter_gric"
+	},
+	{
+		"name": "Carne Griffiths",
+		"prefix": "carne_griffiths"
+	},
+	{
+		"name": "Gris Grimly",
+		"prefix": "gris_grimly"
+	},
+	{
+		"name": "Jordan Grimmer",
+		"prefix": "jordan_grimmer"
+	},
+	{
+		"name": "John Atkinson Grimshaw",
+		"prefix": "john_atkinson_grimshaw"
+	},
+	{
+		"name": "Alex Gross",
+		"prefix": "alex_gross"
+	},
+	{
+		"name": "Huang Guangjian",
+		"prefix": "huang_guangjian"
+	},
+	{
+		"name": "Rebecca Guay",
+		"prefix": "rebecca_guay"
+	},
+	{
+		"name": "Sam Guay",
+		"prefix": "sam_guay"
+	},
+	{
+		"name": "Armand Guillaumin",
+		"prefix": "armand_guillaumin"
+	},
+	{
+		"name": "Grégoire Guillemin",
+		"prefix": "gregoire_guillemin"
+	},
+	{
+		"name": "Saskia Gutekunst",
+		"prefix": "saskia_gutekunst"
+	},
+	{
+		"name": "Guweiz",
+		"prefix": "guweiz"
+	},
+	{
+		"name": "Arthur Hacker",
+		"prefix": "arthur_hacker"
+	},
+	{
+		"name": "Ernst Haeckel",
+		"prefix": "ernst_haeckel"
+	},
+	{
+		"name": "Frans Hals",
+		"prefix": "frans_hals"
+	},
+	{
+		"name": "Richard Hamilton",
+		"prefix": "richard_hamilton"
+	},
+	{
+		"name": "Erin Hanson",
+		"prefix": "erin_hanson"
+	},
+	{
+		"name": "Tomer Hanuka",
+		"prefix": "tomer_hanuka"
+	},
+	{
+		"name": "David A. Hardy",
+		"prefix": "david_a_hardy"
+	},
+	{
+		"name": "Keith Haring",
+		"prefix": "keith_haring"
+	},
+	{
+		"name": "Charley Harper",
+		"prefix": "charley_harper"
+	},
+	{
+		"name": "Conor Harrington",
+		"prefix": "conor_harrington"
+	},
+	{
+		"name": "John Harris",
+		"prefix": "john_harris"
+	},
+	{
+		"name": "Lawren Harris",
+		"prefix": "lawren_harris"
+	},
+	{
+		"name": "Marsden Hartley",
+		"prefix": "marsden_hartley"
+	},
+	{
+		"name": "Hans Hartung",
+		"prefix": "hans_hartung"
+	},
+	{
+		"name": "Kawase Hasui",
+		"prefix": "kawase_hasui"
+	},
+	{
+		"name": "Naoto Hattori",
+		"prefix": "naoto_hattori"
+	},
+	{
+		"name": "Cornelis de Heem",
+		"prefix": "cornelis_de_heem"
+	},
+	{
+		"name": "Brent Heighton",
+		"prefix": "brent_heighton"
+	},
+	{
+		"name": "Lowell Herrero",
+		"prefix": "lowell_herrero"
+	},
+	{
+		"name": "F. Scott Hess",
+		"prefix": "f_scott_hess"
+	},
+	{
+		"name": "Stephen Hickman",
+		"prefix": "stephen_hickman"
+	},
+	{
+		"name": "Utagawa Hiroshige",
+		"prefix": "utagawa_hiroshige"
+	},
+	{
+		"name": "Bryan Hitch",
+		"prefix": "bryan_hitch"
+	},
+	{
+		"name": "Filip Hodas",
+		"prefix": "filip_hodas"
+	},
+	{
+		"name": "Ferdinand Hodler",
+		"prefix": "ferdinand_hodler"
+	},
+	{
+		"name": "Hokusai",
+		"prefix": "hokusai"
+	},
+	{
+		"name": "Ambrosius Holbein",
+		"prefix": "ambrosius_holbein"
+	},
+	{
+		"name": "Hans Holbein",
+		"prefix": "hans_holbein"
+	},
+	{
+		"name": "Winslow Homer",
+		"prefix": "winslow_homer"
+	},
+	{
+		"name": "Frank Hong",
+		"prefix": "frank_hong"
+	},
+	{
+		"name": "Pieter de Hooch",
+		"prefix": "pieter_de_hooch"
+	},
+	{
+		"name": "Edward Hopper",
+		"prefix": "edward_hopper"
+	},
+	{
+		"name": "Aaron Horkey",
+		"prefix": "aaron_horkey"
+	},
+	{
+		"name": "Alex Horley",
+		"prefix": "alex_horley"
+	},
+	{
+		"name": "Edward Atkinson Hornel",
+		"prefix": "edward_atkinson_hornel"
+	},
+	{
+		"name": "John Howe",
+		"prefix": "john_howe"
+	},
+	{
+		"name": "John Hoyland",
+		"prefix": "john_hoyland"
+	},
+	{
+		"name": "Sebastien Hue",
+		"prefix": "sebastien_hue"
+	},
+	{
+		"name": "Adam Hughes",
+		"prefix": "adam_hughes"
+	},
+	{
+		"name": "Edward Robert Hughes",
+		"prefix": "edward_robert_hughes"
+	},
+	{
+		"name": "George Hurrell",
+		"prefix": "george_hurrell"
+	},
+	{
+		"name": "Michael Hutter",
+		"prefix": "michael_hutter"
+	},
+	{
+		"name": "Duy Huynh",
+		"prefix": "duy_huynh"
+	},
+	{
+		"name": "Catherine Hyde",
+		"prefix": "catherine_hyde"
+	},
+	{
+		"name": "Hannah Höch",
+		"prefix": "hannah_hoch"
+	},
+	{
+		"name": "Louis Icart",
+		"prefix": "louis_icart"
+	},
+	{
+		"name": "Stuart Immonen",
+		"prefix": "stuart_immonen"
+	},
+	{
+		"name": "Ismail Inceoglu",
+		"prefix": "ismail_inceoglu"
+	},
+	{
+		"name": "Carmine Infantino",
+		"prefix": "carmine_infantino"
+	},
+	{
+		"name": "Robert Ingpen",
+		"prefix": "robert_ingpen"
+	},
+	{
+		"name": "Jean-Auguste-Dominique Ingres",
+		"prefix": "jean_auguste_dominique_ingres"
+	},
+	{
+		"name": "Inoue Takehiko",
+		"prefix": "inoue_takehiko"
+	},
+	{
+		"name": "Sui Ishida",
+		"prefix": "sui_ishida"
+	},
+	{
+		"name": "Johannes Itten",
+		"prefix": "johannes_itten"
+	},
+	{
+		"name": "Junji Ito",
+		"prefix": "junji_ito"
+	},
+	{
+		"name": "Jorge Jacinto",
+		"prefix": "jorge_jacinto"
+	},
+	{
+		"name": "Bill Jacklin",
+		"prefix": "bill_jacklin"
+	},
+	{
+		"name": "Marcin Jakubowski",
+		"prefix": "marcin_jakubowski"
+	},
+	{
+		"name": "Alexander Jansson",
+		"prefix": "alexander_jansson"
+	},
+	{
+		"name": "Aaron Jasinski",
+		"prefix": "aaron_jasinski"
+	},
+	{
+		"name": "James Jean",
+		"prefix": "james_jean"
+	},
+	{
+		"name": "Oliver Jeffers",
+		"prefix": "oliver_jeffers"
+	},
+	{
+		"name": "Ellen Jewett",
+		"prefix": "ellen_jewett"
+	},
+	{
+		"name": "Ruan Jia",
+		"prefix": "ruan_jia"
+	},
+	{
+		"name": "Phil Jimenez",
+		"prefix": "phil_jimenez"
+	},
+	{
+		"name": "Dorothy Johnstone",
+		"prefix": "dorothy_johnstone"
+	},
+	{
+		"name": "Android Jones",
+		"prefix": "android_jones"
+	},
+	{
+		"name": "Jeffrey Catherine Jones",
+		"prefix": "jeffrey_catherine_jones"
+	},
+	{
+		"name": "Loui Jover",
+		"prefix": "loui_jover"
+	},
+	{
+		"name": "Jean Jullien",
+		"prefix": "jean_jullien"
+	},
+	{
+		"name": "Mandy Jurgens",
+		"prefix": "mandy_jurgens"
+	},
+	{
+		"name": "Joe Jusko",
+		"prefix": "joe_jusko"
+	},
+	{
+		"name": "Shintaro Kago",
+		"prefix": "shintaro_kago"
+	},
+	{
+		"name": "Hayv Kahraman",
+		"prefix": "hayv_kahraman"
+	},
+	{
+		"name": "Michael William Kaluta",
+		"prefix": "michael_william_kaluta"
+	},
+	{
+		"name": "Wassily Kandinsky",
+		"prefix": "wassily_kandinsky"
+	},
+	{
+		"name": "Wadim Kashin",
+		"prefix": "wadim_kashin"
+	},
+	{
+		"name": "Alex Katz",
+		"prefix": "alex_katz"
+	},
+	{
+		"name": "Audrey Kawasaki",
+		"prefix": "audrey_kawasaki"
+	},
+	{
+		"name": "Glen Keane",
+		"prefix": "glen_keane"
+	},
+	{
+		"name": "Kim Keever",
+		"prefix": "kim_keever"
+	},
+	{
+		"name": "Andy Kehoe",
+		"prefix": "andy_kehoe"
+	},
+	{
+		"name": "Ken Kelly",
+		"prefix": "ken_kelly"
+	},
+	{
+		"name": "Kelly Freas",
+		"prefix": "kelly_freas"
+	},
+	{
+		"name": "William Kentridge",
+		"prefix": "william_kentridge"
+	},
+	{
+		"name": "Brian Kesinger",
+		"prefix": "brian_kesinger"
+	},
+	{
+		"name": "Jeremiah Ketner",
+		"prefix": "jeremiah_ketner"
+	},
+	{
+		"name": "Anselm Kiefer",
+		"prefix": "anselm_kiefer"
+	},
+	{
+		"name": "Sam Kieth",
+		"prefix": "sam_kieth"
+	},
+	{
+		"name": "Kim Jung Gi",
+		"prefix": "kim_jung_gi"
+	},
+	{
+		"name": "Thomas Kinkade",
+		"prefix": "thomas_kinkade"
+	},
+	{
+		"name": "Jack Kirby",
+		"prefix": "jack_kirby"
+	},
+	{
+		"name": "Ernst Ludwig Kirchner",
+		"prefix": "ernst_ludwig_kirchner"
+	},
+	{
+		"name": "Raphael Kirchner",
+		"prefix": "raphael_kirchner"
+	},
+	{
+		"name": "Kitagawa Utamaro",
+		"prefix": "kitagawa_utamaro"
+	},
+	{
+		"name": "Tatsuro Kiuchi",
+		"prefix": "tatsuro_kiuchi"
+	},
+	{
+		"name": "Mati Klarwein",
+		"prefix": "mati_klarwein"
+	},
+	{
+		"name": "Jon Klassen",
+		"prefix": "jon_klassen"
+	},
+	{
+		"name": "Paul Klee",
+		"prefix": "paul_klee"
+	},
+	{
+		"name": "Gustav Klimt",
+		"prefix": "gustav_klimt"
+	},
+	{
+		"name": "Hilma af Klint",
+		"prefix": "hilma_af_klint"
+	},
+	{
+		"name": "Ferdinand Knab",
+		"prefix": "ferdinand_knab"
+	},
+	{
+		"name": "Nick Knight",
+		"prefix": "nick_knight"
+	},
+	{
+		"name": "Winifred Knights",
+		"prefix": "winifred_knights"
+	},
+	{
+		"name": "Ayami Kojima",
+		"prefix": "ayami_kojima"
+	},
+	{
+		"name": "Oskar Kokoschka",
+		"prefix": "oskar_kokoschka"
+	},
+	{
+		"name": "Kathe Kollwitz",
+		"prefix": "kathe_kollwitz"
+	},
+	{
+		"name": "Satoshi Kon",
+		"prefix": "satoshi_kon"
+	},
+	{
+		"name": "Willem de Kooning",
+		"prefix": "willem_de_kooning"
+	},
+	{
+		"name": "Jeff Koons",
+		"prefix": "jeff_koons"
+	},
+	{
+		"name": "Ohara Koson",
+		"prefix": "ohara_koson"
+	},
+	{
+		"name": "Bella Kotak",
+		"prefix": "bella_kotak"
+	},
+	{
+		"name": "Ivan Kramskoi",
+		"prefix": "ivan_kramskoi"
+	},
+	{
+		"name": "Ranganath Krishnamani",
+		"prefix": "ranganath_krishnamani"
+	},
+	{
+		"name": "Germaine Krull",
+		"prefix": "germaine_krull"
+	},
+	{
+		"name": "Alfred Kubin",
+		"prefix": "alfred_kubin"
+	},
+	{
+		"name": "Stanley Kubrick",
+		"prefix": "stanley_kubrick"
+	},
+	{
+		"name": "Maciej Kuciara",
+		"prefix": "maciej_kuciara"
+	},
+	{
+		"name": "Utagawa Kunisada",
+		"prefix": "utagawa_kunisada"
+	},
+	{
+		"name": "Akira Kurosawa",
+		"prefix": "akira_kurosawa"
+	},
+	{
+		"name": "Harvey Kurtzman",
+		"prefix": "harvey_kurtzman"
+	},
+	{
+		"name": "Yayoi Kusama",
+		"prefix": "yayoi_kusama"
+	},
+	{
+		"name": "Michael Kutsche",
+		"prefix": "michael_kutsche"
+	},
+	{
+		"name": "Ilya Kuvshinov",
+		"prefix": "ilya_kuvshinov"
+	},
+	{
+		"name": "David LaChapelle",
+		"prefix": "david_la_chapelle"
+	},
+	{
+		"name": "Raphael Lacoste",
+		"prefix": "raphael_lacoste"
+	},
+	{
+		"name": "Mikko Lagerstedt",
+		"prefix": "mikko_lagerstedt"
+	},
+	{
+		"name": "Edwin Landseer",
+		"prefix": "edwin_landseer"
+	},
+	{
+		"name": "Fitz Henry Lane",
+		"prefix": "fitz_henry_lane"
+	},
+	{
+		"name": "Abigail Larson",
+		"prefix": "abigail_larson"
+	},
+	{
+		"name": "Gary Larson",
+		"prefix": "gary_larson"
+	},
+	{
+		"name": "Carl Larsson",
+		"prefix": "carl_larsson"
+	},
+	{
+		"name": "Maria Lassnig",
+		"prefix": "maria_lassnig"
+	},
+	{
+		"name": "Don Lawrence",
+		"prefix": "don_lawrence"
+	},
+	{
+		"name": "Bastien Lecouffe-Deharme",
+		"prefix": "bastien_lecouffe_deharme"
+	},
+	{
+		"name": "Alan Lee",
+		"prefix": "alan_lee"
+	},
+	{
+		"name": "Jae Lee",
+		"prefix": "jae_lee"
+	},
+	{
+		"name": "Jim Lee",
+		"prefix": "jim_lee"
+	},
+	{
+		"name": "Paul Lehr",
+		"prefix": "paul_lehr"
+	},
+	{
+		"name": "Jeff Lemire",
+		"prefix": "jeff_lemire"
+	},
+	{
+		"name": "Aristarkh Lentulov",
+		"prefix": "aristarkh_lentulov"
+	},
+	{
+		"name": "J.C. Leyendecker",
+		"prefix": "j_c_leyendecker"
+	},
+	{
+		"name": "André Lhote",
+		"prefix": "andre_lhote"
+	},
+	{
+		"name": "Roy Lichtenstein",
+		"prefix": "roy_lichtenstein"
+	},
+	{
+		"name": "Rob Liefeld",
+		"prefix": "rob_liefeld"
+	},
+	{
+		"name": "Iwona Lifsches",
+		"prefix": "iwona_lifsches"
+	},
+	{
+		"name": "Richard Lindner",
+		"prefix": "richard_lindner"
+	},
+	{
+		"name": "Liniers",
+		"prefix": "liniers"
+	},
+	{
+		"name": "Filippino Lippi",
+		"prefix": "filippino_lippi"
+	},
+	{
+		"name": "Laurie Lipton",
+		"prefix": "laurie_lipton"
+	},
+	{
+		"name": "Arthur Lismer",
+		"prefix": "arthur_lismer"
+	},
+	{
+		"name": "Michal Lisowski",
+		"prefix": "michal_lisowski"
+	},
+	{
+		"name": "Scott Listfield",
+		"prefix": "scott_listfield"
+	},
+	{
+		"name": "Cory Loftis",
+		"prefix": "cory_loftis"
+	},
+	{
+		"name": "Loish",
+		"prefix": "loish"
+	},
+	{
+		"name": "Andrew Loomis",
+		"prefix": "andrew_loomis"
+	},
+	{
+		"name": "Didier Lourenco",
+		"prefix": "didier_lourenco"
+	},
+	{
+		"name": "H.P. Lovecraft",
+		"prefix": "h_p_lovecraft"
+	},
+	{
+		"name": "Tom Lovell",
+		"prefix": "tom_lovell"
+	},
+	{
+		"name": "Maximilien Luce",
+		"prefix": "maximilien_luce"
+	},
+	{
+		"name": "Margaret MacDonald Mackintosh",
+		"prefix": "margaret_mac_donald_mackintosh"
+	},
+	{
+		"name": "Frances MacDonald McNair",
+		"prefix": "frances_mac_donald_mc_nair"
+	},
+	{
+		"name": "Elizabeth MacNicol",
+		"prefix": "elizabeth_mac_nicol"
+	},
+	{
+		"name": "Andrew Macara",
+		"prefix": "andrew_macara"
+	},
+	{
+		"name": "August Macke",
+		"prefix": "august_macke"
+	},
+	{
+		"name": "Jim Mahfood",
+		"prefix": "jim_mahfood"
+	},
+	{
+		"name": "Hans Makart",
+		"prefix": "hans_makart"
+	},
+	{
+		"name": "Alex Maleew",
+		"prefix": "alex_maleew"
+	},
+	{
+		"name": "Justin Maller",
+		"prefix": "justin_maller"
+	},
+	{
+		"name": "Milo Manara",
+		"prefix": "milo_manara"
+	},
+	{
+		"name": "Gregory Manchess",
+		"prefix": "gregory_manchess"
+	},
+	{
+		"name": "Slawomir Maniak",
+		"prefix": "slawomir_maniak"
+	},
+	{
+		"name": "Jeremy Mann",
+		"prefix": "jeremy_mann"
+	},
+	{
+		"name": "Stan Manoukian",
+		"prefix": "stan_manoukian"
+	},
+	{
+		"name": "Andrea Mantegna",
+		"prefix": "andrea_mantegna"
+	},
+	{
+		"name": "Aldus Manutius",
+		"prefix": "aldus_manutius"
+	},
+	{
+		"name": "Esteban Maroto",
+		"prefix": "esteban_maroto"
+	},
+	{
+		"name": "Chris Mars",
+		"prefix": "chris_mars"
+	},
+	{
+		"name": "John Martin",
+		"prefix": "john_martin"
+	},
+	{
+		"name": "Stephan Martiniere",
+		"prefix": "stephan_martiniere"
+	},
+	{
+		"name": "Frans Masereel",
+		"prefix": "frans_masereel"
+	},
+	{
+		"name": "Brian Mashburn",
+		"prefix": "brian_mashburn"
+	},
+	{
+		"name": "Andre Masson",
+		"prefix": "andre_masson"
+	},
+	{
+		"name": "Henri Matisse",
+		"prefix": "henri_matisse"
+	},
+	{
+		"name": "Rodney Matthews",
+		"prefix": "rodney_matthews"
+	},
+	{
+		"name": "David Mattingly",
+		"prefix": "david_mattingly"
+	},
+	{
+		"name": "Dan Matutina",
+		"prefix": "dan_matutina"
+	},
+	{
+		"name": "Mike Mayhew",
+		"prefix": "mike_mayhew"
+	},
+	{
+		"name": "Cathleen McAllister",
+		"prefix": "cathleen_mc_allister"
+	},
+	{
+		"name": "Robert McCall",
+		"prefix": "robert_mc_call"
+	},
+	{
+		"name": "Frank McCarthy",
+		"prefix": "frank_mc_carthy"
+	},
+	{
+		"name": "Winsor McCay",
+		"prefix": "winsor_mc_cay"
+	},
+	{
+		"name": "Frederick McCubbin",
+		"prefix": "frederick_mc_cubbin"
+	},
+	{
+		"name": "Todd McFarlane",
+		"prefix": "todd_mc_farlane"
+	},
+	{
+		"name": "Barry McGee",
+		"prefix": "barry_mc_gee"
+	},
+	{
+		"name": "Dave McKean",
+		"prefix": "dave_mc_kean"
+	},
+	{
+		"name": "Angus McKie",
+		"prefix": "angus_mc_kie"
+	},
+	{
+		"name": "Seb McKinnon",
+		"prefix": "seb_mc_kinnon"
+	},
+	{
+		"name": "Dan McPharlin",
+		"prefix": "dan_mc_pharlin"
+	},
+	{
+		"name": "Tara McPherson",
+		"prefix": "tara_mc_pherson"
+	},
+	{
+		"name": "Ralph Angus McQuarrie",
+		"prefix": "ralph_angus_mc_quarrie"
+	},
+	{
+		"name": "Ian McQue",
+		"prefix": "ian_mc_que"
+	},
+	{
+		"name": "Syd Mead",
+		"prefix": "syd_mead"
+	},
+	{
+		"name": "Ed Mell",
+		"prefix": "ed_mell"
+	},
+	{
+		"name": "Hans Memling",
+		"prefix": "hans_memling"
+	},
+	{
+		"name": "Eddie Mendoza",
+		"prefix": "eddie_mendoza"
+	},
+	{
+		"name": "Adolph von Menzel",
+		"prefix": "adolph_von_menzel"
+	},
+	{
+		"name": "Maria Sibylla Merian",
+		"prefix": "maria_sibylla_merian"
+	},
+	{
+		"name": "Daniel Merriam",
+		"prefix": "daniel_merriam"
+	},
+	{
+		"name": "Antonello da Messina",
+		"prefix": "antonello_da_messina"
+	},
+	{
+		"name": "Jean Metzinger",
+		"prefix": "jean_metzinger"
+	},
+	{
+		"name": "Joshua Middleton",
+		"prefix": "joshua_middleton"
+	},
+	{
+		"name": "Mike Mignola",
+		"prefix": "mike_mignola"
+	},
+	{
+		"name": "Gjon Mili",
+		"prefix": "gjon_mili"
+	},
+	{
+		"name": "Frank Miller",
+		"prefix": "frank_miller"
+	},
+	{
+		"name": "Ian Miller",
+		"prefix": "ian_miller"
+	},
+	{
+		"name": "Russ Mills",
+		"prefix": "russ_mills"
+	},
+	{
+		"name": "Kentaro Miura",
+		"prefix": "kentaro_miura"
+	},
+	{
+		"name": "Hayao Miyazaki",
+		"prefix": "hayao_miyazaki"
+	},
+	{
+		"name": "Bob Mizer",
+		"prefix": "bob_mizer"
+	},
+	{
+		"name": "Junko Mizuno",
+		"prefix": "junko_mizuno"
+	},
+	{
+		"name": "Amedeo Modigliani",
+		"prefix": "amedeo_modigliani"
+	},
+	{
+		"name": "Moebius",
+		"prefix": "moebius"
+	},
+	{
+		"name": "Peter Mohrbacher",
+		"prefix": "peter_mohrbacher"
+	},
+	{
+		"name": "Claude Monet",
+		"prefix": "claude_monet"
+	},
+	{
+		"name": "Jean-Baptiste Monge",
+		"prefix": "jean_baptiste_monge"
+	},
+	{
+		"name": "Chris Moore",
+		"prefix": "chris_moore"
+	},
+	{
+		"name": "Dan Mora",
+		"prefix": "dan_mora"
+	},
+	{
+		"name": "Thomas Moran",
+		"prefix": "thomas_moran"
+	},
+	{
+		"name": "Giorgio Morandi",
+		"prefix": "giorgio_morandi"
+	},
+	{
+		"name": "Gustave Moreau",
+		"prefix": "gustave_moreau"
+	},
+	{
+		"name": "Henry Moret",
+		"prefix": "henry_moret"
+	},
+	{
+		"name": "Berthe Morisot",
+		"prefix": "berthe_morisot"
+	},
+	{
+		"name": "Hishikawa Moronobu",
+		"prefix": "hishikawa_moronobu"
+	},
+	{
+		"name": "Stefan Morrell",
+		"prefix": "stefan_morrell"
+	},
+	{
+		"name": "William Morris",
+		"prefix": "william_morris"
+	},
+	{
+		"name": "Alberto Morrocco",
+		"prefix": "alberto_morrocco"
+	},
+	{
+		"name": "Igor Morski",
+		"prefix": "igor_morski"
+	},
+	{
+		"name": "John Kenn Mortensen",
+		"prefix": "john_kenn_mortensen"
+	},
+	{
+		"name": "William Mortensen",
+		"prefix": "william_mortensen"
+	},
+	{
+		"name": "Victor Moscoso",
+		"prefix": "victor_moscoso"
+	},
+	{
+		"name": "Olly Moss",
+		"prefix": "olly_moss"
+	},
+	{
+		"name": "Alfons Mucha",
+		"prefix": "alfons_mucha"
+	},
+	{
+		"name": "Craig Mullins",
+		"prefix": "craig_mullins"
+	},
+	{
+		"name": "Dan Mumford",
+		"prefix": "dan_mumford"
+	},
+	{
+		"name": "Bruno Munari",
+		"prefix": "bruno_munari"
+	},
+	{
+		"name": "Edvard Munch",
+		"prefix": "edvard_munch"
+	},
+	{
+		"name": "Will Murai",
+		"prefix": "will_murai"
+	},
+	{
+		"name": "Takashi Murakami",
+		"prefix": "takashi_murakami"
+	},
+	{
+		"name": "Yusuke Murata",
+		"prefix": "yusuke_murata"
+	},
+	{
+		"name": "Hiroshi Nagai",
+		"prefix": "hiroshi_nagai"
+	},
+	{
+		"name": "Kazumasa Nagai",
+		"prefix": "kazumasa_nagai"
+	},
+	{
+		"name": "Patrick Nagel",
+		"prefix": "patrick_nagel"
+	},
+	{
+		"name": "Scott Naismith",
+		"prefix": "scott_naismith"
+	},
+	{
+		"name": "Ted Nasmith",
+		"prefix": "ted_nasmith"
+	},
+	{
+		"name": "Alexander Nasmyth",
+		"prefix": "alexander_nasmyth"
+	},
+	{
+		"name": "Alice Neel",
+		"prefix": "alice_neel"
+	},
+	{
+		"name": "Keith Negley",
+		"prefix": "keith_negley"
+	},
+	{
+		"name": "Kadir Nelson",
+		"prefix": "kadir_nelson"
+	},
+	{
+		"name": "R. Kenton Nelson",
+		"prefix": "r_kenton_nelson"
+	},
+	{
+		"name": "Odd Nerdrum",
+		"prefix": "odd_nerdrum"
+	},
+	{
+		"name": "Jane Newland",
+		"prefix": "jane_newland"
+	},
+	{
+		"name": "Victo Ngai",
+		"prefix": "victo_ngai"
+	},
+	{
+		"name": "Dustin Nguyen",
+		"prefix": "dustin_nguyen"
+	},
+	{
+		"name": "Kay Nielsen",
+		"prefix": "kay_nielsen"
+	},
+	{
+		"name": "Tsutomu Nihei",
+		"prefix": "tsutomu_nihei"
+	},
+	{
+		"name": "Yasushi Nirasawa",
+		"prefix": "yasushi_nirasawa"
+	},
+	{
+		"name": "Victor Nizovtsev",
+		"prefix": "victor_nizovtsev"
+	},
+	{
+		"name": "Catherine Nolin",
+		"prefix": "catherine_nolin"
+	},
+	{
+		"name": "Earl Norem",
+		"prefix": "earl_norem"
+	},
+	{
+		"name": "Marianne North",
+		"prefix": "marianne_north"
+	},
+	{
+		"name": "Thornton Oakley",
+		"prefix": "thornton_oakley"
+	},
+	{
+		"name": "Chris Ofili",
+		"prefix": "chris_ofili"
+	},
+	{
+		"name": "Eiko Ojala",
+		"prefix": "eiko_ojala"
+	},
+	{
+		"name": "Margaret Olley",
+		"prefix": "margaret_olley"
+	},
+	{
+		"name": "Atelier Olschinsky",
+		"prefix": "atelier_olschinsky"
+	},
+	{
+		"name": "Oleg Oprisco",
+		"prefix": "oleg_oprisco"
+	},
+	{
+		"name": "Katsuhiro Otomo",
+		"prefix": "katsuhiro_otomo"
+	},
+	{
+		"name": "Shohei Otomo",
+		"prefix": "shohei_otomo"
+	},
+	{
+		"name": "Siya Oum",
+		"prefix": "siya_oum"
+	},
+	{
+		"name": "Georgia O’Keeffe",
+		"prefix": "georgia_o_keeffe"
+	},
+	{
+		"name": "P.A. Works",
+		"prefix": "p_a_works"
+	},
+	{
+		"name": "Gary Panter",
+		"prefix": "gary_panter"
+	},
+	{
+		"name": "Eduardo Paolozzi",
+		"prefix": "eduardo_paolozzi"
+	},
+	{
+		"name": "Gerald Parel",
+		"prefix": "gerald_parel"
+	},
+	{
+		"name": "Parmigianino",
+		"prefix": "parmigianino"
+	},
+	{
+		"name": "Maxfield Parrish",
+		"prefix": "maxfield_parrish"
+	},
+	{
+		"name": "Ed Paschke",
+		"prefix": "ed_paschke"
+	},
+	{
+		"name": "Bob Peak",
+		"prefix": "bob_peak"
+	},
+	{
+		"name": "Clara Peeters",
+		"prefix": "clara_peeters"
+	},
+	{
+		"name": "Guo Pei",
+		"prefix": "guo_pei"
+	},
+	{
+		"name": "Bruce Pennington",
+		"prefix": "bruce_pennington"
+	},
+	{
+		"name": "John Perceval",
+		"prefix": "john_perceval"
+	},
+	{
+		"name": "Cleon Peterson",
+		"prefix": "cleon_peterson"
+	},
+	{
+		"name": "Nikolina Petolas",
+		"prefix": "nikolina_petolas"
+	},
+	{
+		"name": "Coles Phillips",
+		"prefix": "coles_phillips"
+	},
+	{
+		"name": "Sean Phillips",
+		"prefix": "sean_phillips"
+	},
+	{
+		"name": "Francis Picabia",
+		"prefix": "francis_picabia"
+	},
+	{
+		"name": "Gabriel Picolo",
+		"prefix": "gabriel_picolo"
+	},
+	{
+		"name": "Anton Pieck",
+		"prefix": "anton_pieck"
+	},
+	{
+		"name": "Jerry Pinkney",
+		"prefix": "jerry_pinkney"
+	},
+	{
+		"name": "Maximilian Pirner",
+		"prefix": "maximilian_pirner"
+	},
+	{
+		"name": "Jackson Pollock",
+		"prefix": "jackson_pollock"
+	},
+	{
+		"name": "Jacopo Pontormo",
+		"prefix": "jacopo_pontormo"
+	},
+	{
+		"name": "Paul Pope",
+		"prefix": "paul_pope"
+	},
+	{
+		"name": "Fairfield Porter",
+		"prefix": "fairfield_porter"
+	},
+	{
+		"name": "Candido Portinari",
+		"prefix": "candido_portinari"
+	},
+	{
+		"name": "Simon Prades",
+		"prefix": "simon_prades"
+	},
+	{
+		"name": "Gediminas Pranckevicius",
+		"prefix": "gediminas_pranckevicius"
+	},
+	{
+		"name": "Hugo Pratt",
+		"prefix": "hugo_pratt"
+	},
+	{
+		"name": "Theo Prins",
+		"prefix": "theo_prins"
+	},
+	{
+		"name": "Dod Procter",
+		"prefix": "dod_procter"
+	},
+	{
+		"name": "Ernest Procter",
+		"prefix": "ernest_procter"
+	},
+	{
+		"name": "Alice Provensen",
+		"prefix": "alice_provensen"
+	},
+	{
+		"name": "Steve Purcell",
+		"prefix": "steve_purcell"
+	},
+	{
+		"name": "Leo Putz",
+		"prefix": "leo_putz"
+	},
+	{
+		"name": "Q Hayashida",
+		"prefix": "q_hayashida"
+	},
+	{
+		"name": "Frank Quitely",
+		"prefix": "frank_quitely"
+	},
+	{
+		"name": "Arthur Rackham",
+		"prefix": "arthur_rackham"
+	},
+	{
+		"name": "Henry Raleigh",
+		"prefix": "henry_raleigh"
+	},
+	{
+		"name": "Humberto Ramos",
+		"prefix": "humberto_ramos"
+	},
+	{
+		"name": "Paul Rand",
+		"prefix": "paul_rand"
+	},
+	{
+		"name": "Raphael",
+		"prefix": "raphael"
+	},
+	{
+		"name": "Ravi Zupa",
+		"prefix": "ravi_zupa"
+	},
+	{
+		"name": "Jakub Rebelka",
+		"prefix": "jakub_rebelka"
+	},
+	{
+		"name": "Odilon Redon",
+		"prefix": "odilon_redon"
+	},
+	{
+		"name": "Anne Redpath",
+		"prefix": "anne_redpath"
+	},
+	{
+		"name": "Lotte Reiniger",
+		"prefix": "lotte_reiniger"
+	},
+	{
+		"name": "Rembrandt",
+		"prefix": "rembrandt"
+	},
+	{
+		"name": "Andrey Remnev",
+		"prefix": "andrey_remnev"
+	},
+	{
+		"name": "Pierre-Auguste Renoir",
+		"prefix": "pierre_auguste_renoir"
+	},
+	{
+		"name": "Ilya Repin",
+		"prefix": "ilya_repin"
+	},
+	{
+		"name": "Zac Retz",
+		"prefix": "zac_retz"
+	},
+	{
+		"name": "rhads",
+		"prefix": "rhads"
+	},
+	{
+		"name": "Louis Rhead",
+		"prefix": "louis_rhead"
+	},
+	{
+		"name": "Matt Rhodes",
+		"prefix": "matt_rhodes"
+	},
+	{
+		"name": "Hyacinthe Rigaud",
+		"prefix": "hyacinthe_rigaud"
+	},
+	{
+		"name": "Jovana Rikalo",
+		"prefix": "jovana_rikalo"
+	},
+	{
+		"name": "Bridget Riley",
+		"prefix": "bridget_riley"
+	},
+	{
+		"name": "Faith Ringgold",
+		"prefix": "faith_ringgold"
+	},
+	{
+		"name": "Jean-Paul Riopelle",
+		"prefix": "jean_paul_riopelle"
+	},
+	{
+		"name": "Diego Rivera",
+		"prefix": "diego_rivera"
+	},
+	{
+		"name": "Trina Robbins",
+		"prefix": "trina_robbins"
+	},
+	{
+		"name": "Albert Robida",
+		"prefix": "albert_robida"
+	},
+	{
+		"name": "William Heath Robinson",
+		"prefix": "william_heath_robinson"
+	},
+	{
+		"name": "Andreas Rocha",
+		"prefix": "andreas_rocha"
+	},
+	{
+		"name": "Norman Rockwell",
+		"prefix": "norman_rockwell"
+	},
+	{
+		"name": "Nicholas Roerich",
+		"prefix": "nicholas_roerich"
+	},
+	{
+		"name": "Cyril Rolando",
+		"prefix": "cyril_rolando"
+	},
+	{
+		"name": "Conrad Roset",
+		"prefix": "conrad_roset"
+	},
+	{
+		"name": "Alex Ross",
+		"prefix": "alex_ross"
+	},
+	{
+		"name": "Jessica Rossier",
+		"prefix": "jessica_rossier"
+	},
+	{
+		"name": "Mark Rothko",
+		"prefix": "mark_rothko"
+	},
+	{
+		"name": "Henri Rousseau",
+		"prefix": "henri_rousseau"
+	},
+	{
+		"name": "Paolo Roversi",
+		"prefix": "paolo_roversi"
+	},
+	{
+		"name": "Joao Ruas",
+		"prefix": "joao_ruas"
+	},
+	{
+		"name": "Peter Paul Rubens",
+		"prefix": "peter_paul_rubens"
+	},
+	{
+		"name": "Greg Rutkowski",
+		"prefix": "greg_rutkowski"
+	},
+	{
+		"name": "Rachel Ruysch",
+		"prefix": "rachel_ruysch"
+	},
+	{
+		"name": "Mark Ryden",
+		"prefix": "mark_ryden"
+	},
+	{
+		"name": "Albert Pinkham Ryder",
+		"prefix": "albert_pinkham_ryder"
+	},
+	{
+		"name": "Ryohei Hase",
+		"prefix": "ryohei_hase"
+	},
+	{
+		"name": "Théo van Rysselberghe",
+		"prefix": "theo_van_rysselberghe"
+	},
+	{
+		"name": "Cornelis Saftleven",
+		"prefix": "cornelis_saftleven"
+	},
+	{
+		"name": "Amanda Sage",
+		"prefix": "amanda_sage"
+	},
+	{
+		"name": "Apollonia Saintclair",
+		"prefix": "apollonia_saintclair"
+	},
+	{
+		"name": "John Salminen",
+		"prefix": "john_salminen"
+	},
+	{
+		"name": "Nicola Samori",
+		"prefix": "nicola_samori"
+	},
+	{
+		"name": "Tony Sandoval",
+		"prefix": "tony_sandoval"
+	},
+	{
+		"name": "Raffaello Sanzio da Urbino",
+		"prefix": "raffaello_sanzio_da_urbino"
+	},
+	{
+		"name": "John Singer Sargent",
+		"prefix": "john_singer_sargent"
+	},
+	{
+		"name": "Arthur Sarnoff",
+		"prefix": "arthur_sarnoff"
+	},
+	{
+		"name": "Sylvain Sarrailh",
+		"prefix": "sylvain_sarrailh"
+	},
+	{
+		"name": "Andrea del Sarto",
+		"prefix": "andrea_del_sarto"
+	},
+	{
+		"name": "Martiros Saryan",
+		"prefix": "martiros_saryan"
+	},
+	{
+		"name": "Alexei Savrasov",
+		"prefix": "alexei_savrasov"
+	},
+	{
+		"name": "Richard Scarry",
+		"prefix": "richard_scarry"
+	},
+	{
+		"name": "Godfried Schalcken",
+		"prefix": "godfried_schalcken"
+	},
+	{
+		"name": "Thomas W Schaller",
+		"prefix": "thomas_w_schaller"
+	},
+	{
+		"name": "Paula Scher",
+		"prefix": "paula_scher"
+	},
+	{
+		"name": "Egon Schiele",
+		"prefix": "egon_schiele"
+	},
+	{
+		"name": "Helene Schjerfbeck",
+		"prefix": "helene_schjerfbeck"
+	},
+	{
+		"name": "Martin Schoeller",
+		"prefix": "martin_schoeller"
+	},
+	{
+		"name": "John Schoenherr",
+		"prefix": "john_schoenherr"
+	},
+	{
+		"name": "Alex Schomburg",
+		"prefix": "alex_schomburg"
+	},
+	{
+		"name": "Martin Schongauer",
+		"prefix": "martin_schongauer"
+	},
+	{
+		"name": "Otto Marseus van Schrieck",
+		"prefix": "otto_marseus_van_schrieck"
+	},
+	{
+		"name": "Francois Schuiten",
+		"prefix": "francois_schuiten"
+	},
+	{
+		"name": "Carlos Schwabe",
+		"prefix": "carlos_schwabe"
+	},
+	{
+		"name": "Kurt Schwitters",
+		"prefix": "kurt_schwitters"
+	},
+	{
+		"name": "Susan Seddon Boulet",
+		"prefix": "susan_seddon_boulet"
+	},
+	{
+		"name": "Guillaume Seignac",
+		"prefix": "guillaume_seignac"
+	},
+	{
+		"name": "Anton Semenov",
+		"prefix": "anton_semenov"
+	},
+	{
+		"name": "Georges Seurat",
+		"prefix": "georges_seurat"
+	},
+	{
+		"name": "Marie Severin",
+		"prefix": "marie_severin"
+	},
+	{
+		"name": "Alberto Seveso",
+		"prefix": "alberto_seveso"
+	},
+	{
+		"name": "Brooke Shaden",
+		"prefix": "brooke_shaden"
+	},
+	{
+		"name": "Barclay Shaw",
+		"prefix": "barclay_shaw"
+	},
+	{
+		"name": "E. H. Shepard",
+		"prefix": "e_h_shepard"
+	},
+	{
+		"name": "Cynthia Sheppard",
+		"prefix": "cynthia_sheppard"
+	},
+	{
+		"name": "Tyler Shields",
+		"prefix": "tyler_shields"
+	},
+	{
+		"name": "Yuko Shimizu",
+		"prefix": "yuko_shimizu"
+	},
+	{
+		"name": "Makoto Shinkai",
+		"prefix": "makoto_shinkai"
+	},
+	{
+		"name": "Yoji Shinkawa",
+		"prefix": "yoji_shinkawa"
+	},
+	{
+		"name": "Everett Shinn",
+		"prefix": "everett_shinn"
+	},
+	{
+		"name": "Masamune Shirow",
+		"prefix": "masamune_shirow"
+	},
+	{
+		"name": "Emmanuel Shiu",
+		"prefix": "emmanuel_shiu"
+	},
+	{
+		"name": "Henryk Siemiradzki",
+		"prefix": "henryk_siemiradzki"
+	},
+	{
+		"name": "Bill Sienkiewicz",
+		"prefix": "bill_sienkiewicz"
+	},
+	{
+		"name": "Paul Signac",
+		"prefix": "paul_signac"
+	},
+	{
+		"name": "Marc Silvestri",
+		"prefix": "marc_silvestri"
+	},
+	{
+		"name": "Greg Simkins",
+		"prefix": "greg_simkins"
+	},
+	{
+		"name": "Marc Simonetti",
+		"prefix": "marc_simonetti"
+	},
+	{
+		"name": "David Alfaro Siqueiros",
+		"prefix": "david_alfaro_siqueiros"
+	},
+	{
+		"name": "Kevin Sloan",
+		"prefix": "kevin_sloan"
+	},
+	{
+		"name": "Grace Cossington Smith",
+		"prefix": "grace_cossington_smith"
+	},
+	{
+		"name": "Chaim Soutine",
+		"prefix": "chaim_soutine"
+	},
+	{
+		"name": "Austin Osman Spare",
+		"prefix": "austin_osman_spare"
+	},
+	{
+		"name": "Sparth",
+		"prefix": "sparth"
+	},
+	{
+		"name": "Chuck Sperry",
+		"prefix": "chuck_sperry"
+	},
+	{
+		"name": "Sam Spratt",
+		"prefix": "sam_spratt"
+	},
+	{
+		"name": "Ralph Steadman",
+		"prefix": "ralph_steadman"
+	},
+	{
+		"name": "Brian Stelfreeze",
+		"prefix": "brian_stelfreeze"
+	},
+	{
+		"name": "Alfred Stieglitz",
+		"prefix": "alfred_stieglitz"
+	},
+	{
+		"name": "James Stokoe",
+		"prefix": "james_stokoe"
+	},
+	{
+		"name": "William Strealy",
+		"prefix": "william_strealy"
+	},
+	{
+		"name": "Arthur Streeton",
+		"prefix": "arthur_streeton"
+	},
+	{
+		"name": "Drew Struzan",
+		"prefix": "drew_struzan"
+	},
+	{
+		"name": "Tomasz Strzalkowski",
+		"prefix": "tomasz_strzalkowski"
+	},
+	{
+		"name": "Simon Stalenhag",
+		"prefix": "simon_stalenhag"
+	},
+	{
+		"name": "Ken Sugimori",
+		"prefix": "ken_sugimori"
+	},
+	{
+		"name": "Graham Sutherland",
+		"prefix": "graham_sutherland"
+	},
+	{
+		"name": "Arthur Suydam",
+		"prefix": "arthur_suydam"
+	},
+	{
+		"name": "Raymond Swanland",
+		"prefix": "raymond_swanland"
+	},
+	{
+		"name": "Peter de Seve",
+		"prefix": "peter_de_seve"
+	},
+	{
+		"name": "Hiroyuki-Mitsume Takahashi",
+		"prefix": "hiroyuki_mitsume_takahashi"
+	},
+	{
+		"name": "Kazuya Takahashi",
+		"prefix": "kazuya_takahashi"
+	},
+	{
+		"name": "Rumiko Takahashi",
+		"prefix": "rumiko_takahashi"
+	},
+	{
+		"name": "Rufino Tamayo",
+		"prefix": "rufino_tamayo"
+	},
+	{
+		"name": "Shaun Tan",
+		"prefix": "shaun_tan"
+	},
+	{
+		"name": "Henry Ossawa Tanner",
+		"prefix": "henry_ossawa_tanner"
+	},
+	{
+		"name": "Genndy Tartakovsky",
+		"prefix": "genndy_tartakovsky"
+	},
+	{
+		"name": "Ben Templesmith",
+		"prefix": "ben_templesmith"
+	},
+	{
+		"name": "Sachin Teng",
+		"prefix": "sachin_teng"
+	},
+	{
+		"name": "Gustaf Tenggren",
+		"prefix": "gustaf_tenggren"
+	},
+	{
+		"name": "Saul Tepper",
+		"prefix": "saul_tepper"
+	},
+	{
+		"name": "Katsuya Terada",
+		"prefix": "katsuya_terada"
+	},
+	{
+		"name": "Howard Terpning",
+		"prefix": "howard_terpning"
+	},
+	{
+		"name": "Osamu Tezuka",
+		"prefix": "osamu_tezuka"
+	},
+	{
+		"name": "Abbott Handerson Thayer",
+		"prefix": "abbott_handerson_thayer"
+	},
+	{
+		"name": "Karel Thole",
+		"prefix": "karel_thole"
+	},
+	{
+		"name": "Mickalene Thomas",
+		"prefix": "mickalene_thomas"
+	},
+	{
+		"name": "Craig Thompson",
+		"prefix": "craig_thompson"
+	},
+	{
+		"name": "Tom Thomson",
+		"prefix": "tom_thomson"
+	},
+	{
+		"name": "Giovanni Tiepolo",
+		"prefix": "giovanni_tiepolo"
+	},
+	{
+		"name": "Alex Timmermans",
+		"prefix": "alex_timmermans"
+	},
+	{
+		"name": "Titian",
+		"prefix": "titian"
+	},
+	{
+		"name": "Adrian Tomine",
+		"prefix": "adrian_tomine"
+	},
+	{
+		"name": "Ori Toor",
+		"prefix": "ori_toor"
+	},
+	{
+		"name": "Akira Toriyama",
+		"prefix": "akira_toriyama"
+	},
+	{
+		"name": "Alex Toth",
+		"prefix": "alex_toth"
+	},
+	{
+		"name": "Henri de Toulouse-Lautrec",
+		"prefix": "henri_de_toulouse_lautrec"
+	},
+	{
+		"name": "Ross Tran",
+		"prefix": "ross_tran"
+	},
+	{
+		"name": "William Turner",
+		"prefix": "william_turner"
+	},
+	{
+		"name": "Chris Turnham",
+		"prefix": "chris_turnham"
+	},
+	{
+		"name": "David Tutwiler",
+		"prefix": "david_tutwiler"
+	},
+	{
+		"name": "Tadahiro Uesugi",
+		"prefix": "tadahiro_uesugi"
+	},
+	{
+		"name": "Euan Uglow",
+		"prefix": "euan_uglow"
+	},
+	{
+		"name": "Daniela Uhlig",
+		"prefix": "daniela_uhlig"
+	},
+	{
+		"name": "Ukraine",
+		"prefix": "ukraine"
+	},
+	{
+		"name": "Halil Ural",
+		"prefix": "halil_ural"
+	},
+	{
+		"name": "Jan Urschel",
+		"prefix": "jan_urschel"
+	},
+	{
+		"name": "Boris Vallejo",
+		"prefix": "boris_vallejo"
+	},
+	{
+		"name": "Vincent van Gogh",
+		"prefix": "vincent_van_gogh"
+	},
+	{
+		"name": "Alberto Vargas",
+		"prefix": "alberto_vargas"
+	},
+	{
+		"name": "Victor Vasarely",
+		"prefix": "victor_vasarely"
+	},
+	{
+		"name": "Brian K. Vaughan",
+		"prefix": "brian_k_vaughan"
+	},
+	{
+		"name": "Diego Velázquez",
+		"prefix": "diego_velazquez"
+	},
+	{
+		"name": "Vasily Vereshchagin",
+		"prefix": "vasily_vereshchagin"
+	},
+	{
+		"name": "Jan Vermeer",
+		"prefix": "jan_vermeer"
+	},
+	{
+		"name": "Andrea del Verrocchio",
+		"prefix": "andrea_del_verrocchio"
+	},
+	{
+		"name": "Andreas Vesalius",
+		"prefix": "andreas_vesalius"
+	},
+	{
+		"name": "Charles Vess",
+		"prefix": "charles_vess"
+	},
+	{
+		"name": "Élisabeth Vigée-Lebrun",
+		"prefix": "elisabeth_vigee_lebrun"
+	},
+	{
+		"name": "Louis Wain",
+		"prefix": "louis_wain"
+	},
+	{
+		"name": "Camille Walala",
+		"prefix": "camille_walala"
+	},
+	{
+		"name": "Alfons Walde",
+		"prefix": "alfons_walde"
+	},
+	{
+		"name": "Alfred Wallis",
+		"prefix": "alfred_wallis"
+	},
+	{
+		"name": "Lynd Ward",
+		"prefix": "lynd_ward"
+	},
+	{
+		"name": "Andy Warhol",
+		"prefix": "andy_warhol"
+	},
+	{
+		"name": "John William Waterhouse",
+		"prefix": "john_william_waterhouse"
+	},
+	{
+		"name": "Jean-Antoine Watteau",
+		"prefix": "jean_antoine_watteau"
+	},
+	{
+		"name": "George Frederic Watts",
+		"prefix": "george_frederic_watts"
+	},
+	{
+		"name": "Joe Webb",
+		"prefix": "joe_webb"
+	},
+	{
+		"name": "Edwin Lord Weeks",
+		"prefix": "edwin_lord_weeks"
+	},
+	{
+		"name": "Johan Hendrik Weissenbruch",
+		"prefix": "johan_hendrik_weissenbruch"
+	},
+	{
+		"name": "Casey Weldon",
+		"prefix": "casey_weldon"
+	},
+	{
+		"name": "Catrin Welz-Stein",
+		"prefix": "catrin_welz_stein"
+	},
+	{
+		"name": "Tom Whalen",
+		"prefix": "tom_whalen"
+	},
+	{
+		"name": "Michael Whelan",
+		"prefix": "michael_whelan"
+	},
+	{
+		"name": "Jon Whitcomb",
+		"prefix": "jon_whitcomb"
+	},
+	{
+		"name": "Coby Whitmore",
+		"prefix": "coby_whitmore"
+	},
+	{
+		"name": "Peter Wileman",
+		"prefix": "peter_wileman"
+	},
+	{
+		"name": "Kehinde Wiley",
+		"prefix": "kehinde_wiley"
+	},
+	{
+		"name": "Edward Blair Wilkins",
+		"prefix": "edward_blair_wilkins"
+	},
+	{
+		"name": "Al Williamson",
+		"prefix": "al_williamson"
+	},
+	{
+		"name": "Carel Willink",
+		"prefix": "carel_willink"
+	},
+	{
+		"name": "Barry Windsor-Smith",
+		"prefix": "barry_windsor_smith"
+	},
+	{
+		"name": "Franz Xaver Winterhalter",
+		"prefix": "franz_xaver_winterhalter"
+	},
+	{
+		"name": "Nathan Wirth",
+		"prefix": "nathan_wirth"
+	},
+	{
+		"name": "Wlop",
+		"prefix": "wlop"
+	},
+	{
+		"name": "Brandon Woelfel",
+		"prefix": "brandon_woelfel"
+	},
+	{
+		"name": "Liam Wong",
+		"prefix": "liam_wong"
+	},
+	{
+		"name": "Ashley Wood",
+		"prefix": "ashley_wood"
+	},
+	{
+		"name": "Grant Wood",
+		"prefix": "grant_wood"
+	},
+	{
+		"name": "Zao Wou-Ki",
+		"prefix": "zao_wou_ki"
+	},
+	{
+		"name": "Bernie Wrightson",
+		"prefix": "bernie_wrightson"
+	},
+	{
+		"name": "Andrew Wyeth",
+		"prefix": "andrew_wyeth"
+	},
+	{
+		"name": "Zhelong Xu",
+		"prefix": "zhelong_xu"
+	},
+	{
+		"name": "Hannah Yata",
+		"prefix": "hannah_yata"
+	},
+	{
+		"name": "Liu Ye",
+		"prefix": "liu_ye"
+	},
+	{
+		"name": "Bunny Yeager",
+		"prefix": "bunny_yeager"
+	},
+	{
+		"name": "Jacek Yerka",
+		"prefix": "jacek_yerka"
+	},
+	{
+		"name": "Tadanori Yokoo",
+		"prefix": "tadanori_yokoo"
+	},
+	{
+		"name": "Sean Yoro",
+		"prefix": "sean_yoro"
+	},
+	{
+		"name": "Akihiko Yoshida",
+		"prefix": "akihiko_yoshida"
+	},
+	{
+		"name": "Hiroshi Yoshida",
+		"prefix": "hiroshi_yoshida"
+	},
+	{
+		"name": "Skottie Young",
+		"prefix": "skottie_young"
+	},
+	{
+		"name": "Darek Zabrocki",
+		"prefix": "darek_zabrocki"
+	},
+	{
+		"name": "Ossip Zadkine",
+		"prefix": "ossip_zadkine"
+	},
+	{
+		"name": "Eytan Zana",
+		"prefix": "eytan_zana"
+	},
+	{
+		"name": "Eric Zener",
+		"prefix": "eric_zener"
+	},
+	{
+		"name": "Fenghua Zhong",
+		"prefix": "fenghua_zhong"
+	},
+	{
+		"name": "William Zorach",
+		"prefix": "william_zorach"
+	},
+	{
+		"name": "Anders Zorn",
+		"prefix": "anders_zorn"
+	},
+	{
+		"name": "Ignacio Zuloaga",
+		"prefix": "ignacio_zuloaga"
+	]
+]
